@@ -1,0 +1,148 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "nama": "Iwan Siswandi",
+      "telepon": "08577766543",
+      "email": "iwan@mail.com"
+    },
+    {
+      "id": "2",
+      "nama": "Dewi Ayu",
+      "telepon": "08123456789",
+      "email": "dewi@mail.com"
+    },
+    {
+      "id": "3",
+      "nama": "Rudi Hartono",
+      "telepon": "08234567890",
+      "email": "rudi@mail.com"
+    },
+    {
+      "id": "4",
+      "nama": "Siti Aminah",
+      "telepon": "08345678901",
+      "email": "siti@mail.com"
+    },
+    {
+      "id": "5",
+      "nama": "Budi Santoso",
+      "telepon": "08456789012",
+      "email": "budi@mail.com"
+    },
+    {
+      "id": "6",
+      "nama": "Agus Subandi",
+      "telepon": "08567890123",
+      "email": "agus@mail.com"
+    },
+    {
+      "id": "7",
+      "nama": "Maya Sari",
+      "telepon": "08678901234",
+      "email": "maya@mail.com"
+    },
+    {
+      "id": "8",
+      "nama": "Tono Wirawan",
+      "telepon": "08789012345",
+      "email": "tono@mail.com"
+    },
+    {
+      "id": "9",
+      "nama": "Lina Pertiwi",
+      "telepon": "08890123456",
+      "email": "lina@mail.com"
+    },
+    {
+      "id": "10",
+      "nama": "Andi Pratama",
+      "telepon": "08901234567",
+      "email": "andi@mail.com"
+    },
+    {
+      "id": "11",
+      "nama": "Yuni Wulandari",
+      "telepon": "08111222333",
+      "email": "yuni@mail.com"
+    },
+    {
+      "id": "12",
+      "nama": "Eka Saputra",
+      "telepon": "08222333444",
+      "email": "eka@mail.com"
+    },
+    {
+      "id": "13",
+      "nama": "Hadi Suprapto",
+      "telepon": "08333444555",
+      "email": "hadi@mail.com"
+    },
+    {
+      "id": "14",
+      "nama": "Rina Susanti",
+      "telepon": "08444555666",
+      "email": "rina@mail.com"
+    },
+    {
+      "id": "15",
+      "nama": "Doni Setiawan",
+      "telepon": "08555666777",
+      "email": "doni@mail.com"
+    },
+    {
+      "id": "16",
+      "nama": "Nina Kurnia",
+      "telepon": "08666777888",
+      "email": "nina@mail.com"
+    },
+    {
+      "id": "17",
+      "nama": "Adi Nugroho",
+      "telepon": "08777888999",
+      "email": "adi@mail.com"
+    },
+    {
+      "id": "18",
+      "nama": "Santi Dewi",
+      "telepon": "08888999000",
+      "email": "santi@mail.com"
+    },
+    {
+      "id": "19",
+      "nama": "Fajar Pratama",
+      "telepon": "08999000111",
+      "email": "fajar@mail.com"
+    },
+    {
+      "id": "20",
+      "nama": "Rika Lestari",
+      "telepon": "08100011222",
+      "email": "rika@mail.com"
+    },
+    {
+      "id": "087d",
+      "nama": "Rizal Mentawai",
+      "telepon": "123456789988",
+      "email": "test@mail.com"
+    },
+    {
+      "id": "1612",
+      "nama": "Udin Paku",
+      "telepon": "08512341234",
+      "email": "kamu@mail.com"
+    },
+    {
+      "id": "9ba2",
+      "nama": "Juanda Pisan",
+      "telepon": "081123456789",
+      "email": "juanda@mail.com"
+    },
+    {
+      "id": "e016",
+      "nama": "Togar Simatupang",
+      "telepon": "088123123123",
+      "email": "togar@mail.com"
+    }
+  ]
+}
